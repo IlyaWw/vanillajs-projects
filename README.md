@@ -16,3 +16,5 @@ Each project is in a separate folder. Open corresponding index.js in a browser t
    - Randomly generated maze
    - Control over keyboard
    - TODO: restart button on the win screen
+4. Message encryption app
+   - Base64 encoding/decoding
